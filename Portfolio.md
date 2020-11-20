@@ -1,9 +1,9 @@
-### ***Добрый день!***
+﻿### ***Добрый день!***
 #### *По результату тестирования бета-версии мобильного приложения Mail.ru для Android, в данном портфолио предлагаю ознакомиться с расположенными на GoogleDrive примерами моего составления:*
--	***Чек-листа и тест-кейсов, составленных в Google Таблицах и TestLink:***
+-	***Чек-листа и тест-кейсов, составленных в Google Таблицах и TestLink:***		
 [*Пример*](https://docs.google.com/spreadsheets/d/1ZWAI-hLSswtdqCiPMOF6fuGwVPZYu-en2Ux6Z83NFeI/edit?usp=sharing)
 
--	***Баг-репортов в Google Таблицах и Redmine:***
+-	***Баг-репортов в Google Таблицах и Redmine:***		
 [*Пример*](https://docs.google.com/spreadsheets/d/1RLnbMT1N4eUXGLF_SLThvgpjL9WArlufS3aRf3lYvIw/edit?usp=sharing)
 -	***Диаграмм и таблиц состояний и переходов, чек-листов, составленных на их основе:***   
 [*Пример*](https://docs.google.com/spreadsheets/d/1ry-2Wzrb7gk6V87Aey3fpA0LI62st05CMuOlQJg01F0/edit?usp=sharing)    
